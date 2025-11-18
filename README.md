@@ -1,16 +1,22 @@
 # Hi, I'm Neeraj 👋
 
-**Software Architect | .NET & Azure | Building Distributed Systems**
+**Software Architect | .NET & Azure | Distributed Systems & Reactive Streams**
 
-I architect and build scalable enterprise applications using .NET Core, Azure, and microservices patterns. 16 years of turning complex business problems into elegant technical solutions.
+I architect and build scalable enterprise applications using .NET Core, Azure, and microservices patterns. 16 years of turning complex business problems into elegant technical solutions. Currently exploring reactive programming with Scala and Pekko Streams.
 
 ## 🛠️ Tech Stack
 ```
-Architecture:  Microservices | CQRS | Event Sourcing | DDD
-Backend:       .NET Core 2.2-8 | C# | ASP.NET Core | Web API
-Cloud:         Azure (AKS, PaaS, DevOps) | Docker | Kubernetes
-Data:          SQL Server | MongoDB | Elasticsearch
-DevOps:        CI/CD | Azure DevOps | Jenkins | Git
+Primary Stack:
+  Architecture:  Microservices | CQRS | Event Sourcing | DDD
+  Backend:       .NET Core 2.2-8 | C# | ASP.NET Core | Web API
+  Cloud:         Azure (AKS, PaaS, DevOps) | Docker | Kubernetes
+  Data:          SQL Server | MongoDB | Elasticsearch
+  DevOps:        CI/CD | Azure DevOps | Jenkins | Git
+
+Learning & Exploring:
+  Functional:    Scala | Pekko Streams | Akka patterns
+  Languages:     Go | Python
+  Paradigms:     Reactive Programming | Functional Programming
 ```
 
 ## 💼 What I Do
@@ -23,18 +29,33 @@ DevOps:        CI/CD | Azure DevOps | Jenkins | Git
 
 ## 🌱 Currently Learning
 
+- **Scala & Pekko Streams** - reactive stream processing, backpressure handling, and functional reactive patterns
+- **Functional Programming** - applying FP principles to distributed systems design
 - **Go** - for high-performance microservices
 - **Python** - data processing and automation
-- **Functional Programming** - better patterns for distributed systems
 - **Azure Certifications** - AZ-305, AZ-204
+
+## 🎯 Interests
+
+**Technical:**
+- Reactive streaming architectures (Pekko/Akka model)
+- Event-driven systems with backpressure
+- Functional programming in distributed contexts
+- Cloud-native patterns and microservices
+- Performance engineering at scale
+
+**Architectural Philosophy:**
+Combining the type safety and composability of functional programming (Scala) with the pragmatism of .NET ecosystem and reactive patterns from Pekko Streams to build robust distributed systems.
 
 ## 🤝 Looking to Collaborate On
 
-- Open source .NET/Azure projects
+- Reactive streaming projects (Pekko Streams, Akka)
+- Open source .NET/Azure/Scala projects
 - Microservices architecture patterns
+- Functional programming patterns for distributed systems
 - Performance optimization challenges
 - Code reviews and architectural discussions
-- Knowledge sharing on distributed systems
+- Knowledge sharing on event-driven architectures
 
 ## 📚 Beyond Code
 
@@ -52,4 +73,6 @@ Avid reader (Kafka, Dostoevsky, Camus, Proust) and film enthusiast (Kurosawa, Ku
 
 ---
 
-💡 *Open to interesting problems in distributed systems, cloud architecture, and high-scale applications.*
+💡 *Open to interesting problems in distributed systems, reactive streams, cloud architecture, and high-scale applications.*
+
+📖 *Currently bridging the .NET and Scala/Pekko ecosystems - learning how functional reactive patterns can enhance enterprise architecture.*
